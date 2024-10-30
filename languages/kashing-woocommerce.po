@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kashing Woocommerce\n"
+"POT-Creation-Date: 2018-03-02 12:14+0100\n"
+"PO-Revision-Date: 2018-03-02 12:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: Kashing Limited\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-gateway-kashing-request.php:112
+msgid "Billing data missing."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:128
+msgid "The transaction currency is not yet supported by Kashing Payments."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:195
+#: includes/class-wc-gateway-kashing-request.php:533
+msgid "There was something wrong with the WordPress API Call."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:225
+msgid ""
+"There was something wrong with a redirection response from the Kashing "
+"server."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:250
+msgid "There was an error with the Kashing API call response."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:426
+msgid "Please make sure your Merchant ID is correct."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:429
+msgid "Please make sure that your Secret API Key and Merchant ID are correct."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:475
+msgid "Refund amount is required. Provided:"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-request.php:483
+msgid "Kashing Transaction ID missing."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:65
+msgid "Kashing payment successful."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:76
+#: includes/class-wc-gateway-kashing-response.php:133
+msgid "Kashing payment failed."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:119
+msgid "Kashing payment successful!"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:119
+#: includes/class-wc-gateway-kashing-response.php:133
+msgid "Transaction details"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:120
+#: includes/class-wc-gateway-kashing-response.php:134
+msgid "Transaction ID"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:122
+#: includes/class-wc-gateway-kashing-response.php:136
+msgid "Response Code"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:125
+#: includes/class-wc-gateway-kashing-response.php:139
+msgid "Reason Code"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing-response.php:127
+#: includes/class-wc-gateway-kashing-response.php:141
+msgid "This notice is displayed to site administrators only."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:87
+msgid ""
+"Allow customers to conveniently pay with a credit card via Kashing Payments."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:88
+msgid "Pay with Kashing"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:100
+msgid "TEST MODE enabled."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:133
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:135
+msgid "Enable Kashing Payments"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:139
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:141
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:142
+msgid "Credit Card (Kashing)"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:146
+msgid "Customer Message"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:148
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:149
+msgid "Pay with your credit card via Kashing."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:154
+msgid "Kashing Configuration"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:156
+msgid "You may retrieve your Kashing Merchant ID and Secret Key here:"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:159
+msgid "Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:161
+msgid "Enable the Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:162
+msgid ""
+"Activate or deactivate the plugin Test Mode. When Test Mode is activated, no "
+"credit card payments are processed."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:167
+msgid "Test Merchant ID"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:169
+msgid "Enter your testing Merchant ID."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:174
+msgid "Test Secret Key"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:176
+msgid "Enter your testing Secret Key."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:181
+msgid "Live Merchant ID"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:183
+msgid "Enter your live Merchant ID."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:188
+msgid "Live Secret Key"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:190
+msgid "Enter your live Secret Key."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:196
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:198
+msgid "Some additional, advanced settings."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:201
+msgid "Debug log"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:203
+msgid "Enable logging"
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:204
+msgid "Enable logging for easier system debugging."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:250
+msgid "Kashing payment initialised."
+msgstr ""
+
+#: includes/class-wc-gateway-kashing.php:312
+msgid "Refund failed: No Kashing Transaction ID found."
+msgstr ""
+
+#: includes/class-wc-kashing-exception.php:26
+msgid ""
+"En error occured with the Kashing payment. Please contact the site "
+"administrator."
+msgstr ""
+
+#: kashing-woocommerce.php:126
+msgid "Test Merchant ID field is empty."
+msgstr ""
+
+#: kashing-woocommerce.php:131
+msgid "Test Secret Key field is empty."
+msgstr ""
+
+#: kashing-woocommerce.php:140
+msgid "Live Merchant ID field is empty."
+msgstr ""
+
+#: kashing-woocommerce.php:145
+msgid "Live Secret Key field is empty."
+msgstr ""
+
+#: kashing-woocommerce.php:153
+msgid "There are some Kashing Payments Gateway configuration errors:"
+msgstr ""
+
+#: kashing-woocommerce.php:154
+msgid "Go to Gateway Settings"
+msgstr ""
+
+#: kashing-woocommerce.php:239
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: kashing-woocommerce.php:244
+msgid "Cheating, huh?"
+msgstr ""
